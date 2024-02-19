@@ -1,6 +1,6 @@
 # Google_News_Search
 
-This is a simple web app that utilizes React and Express. The React front-end receives the search term and the number of search results to display and the Express server makes API calls to SerpApi to fetch the search results. 
+This is a simple web app that utilizes React and Express. The React front-end receives the search term and the number of search results to display and the Express server makes API calls to SerpApi to fetch the search results. The src folder contains App.jsx, Home.jsx, and Display.jsx, while the server.js file is the Express server. 
 
 ## Demo
 
